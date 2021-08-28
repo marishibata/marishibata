@@ -2,9 +2,10 @@
 
 **What I'm doing now**
 - 💻 Currently working on SafeSpace, a video chat app set in a 3D virtual world
-- 🌱 Learning Three.js
+- 🌱 Learning Three.js, WebRTC
 
 **Some of my favourite technologies**
+
 <code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" alt="Three" src="https://pbs.twimg.com/profile_images/1156268573137833984/5gdpZtDv_400x400.jpg"></code>
