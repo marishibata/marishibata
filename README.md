@@ -1,5 +1,6 @@
-**Hi all, I'm Mari - a full-stack developer** 👩🏻‍💻 👘 🎥 🎹 🌸
-**Based in London 🏴󠁧󠁢󠁥󠁮󠁧󠁿 via 🇯🇵🇩🇪🇰🇪 **
+**Hi all, I'm Mari** 👩🏻‍💻 👘 🎥 🎹 🌸
+
+A Full-Stack Developer based in London 🏴󠁧󠁢󠁥󠁮󠁧󠁿 via 🇯🇵🇩🇪🇰🇪
 
 **What I'm doing now**
 - 💻 Currently working on SafeSpace, a video chat app set in a 3D virtual world
