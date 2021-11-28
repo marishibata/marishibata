@@ -1,11 +1,12 @@
-**Hi all, I'm Mari** 👩🏻‍💻 👘 🎥 🎹 🌸
+**Hi all, I'm Mari** 👘 🎥 🎹 🌸 🍜
 
-A Full-Stack Developer based in London 🏴󠁧󠁢󠁥󠁮󠁧󠁿 via 🇯🇵🇩🇪🇰🇪
+👩🏻‍💻 Full-Stack Developer based in London 🏴󠁧󠁢󠁥󠁮󠁧󠁿 via 🇯🇵🇩🇪🇰🇪
 
 **What I'm doing**
+
 - 🎨 Frontend Engineer at [Tray.io](https://github.com/trayio) building design systems for automation tools
-- 💻 Recently developed WebRTC video streaming for [SafeSpace] (https://github.com/arcaneCheco/SafeSpace), a video-chat app set in a 3D virtual world
-- 🌱 Learning more Three.js to add 3D visulisations to my interactive documentary [DigitalPrejudice] (https://github.com/marishibata/digital-prejudice)
+- 💻 Recently worked on WebRTC video streaming for [SafeSpace](https://github.com/arcaneCheco/SafeSpace), a video-chat app set in a 3D virtual world
+- 🌱 Continuing to learn Three.js to develop 3D visulisations to my interactive documentary [Digital Prejudice](https://github.com/marishibata/digital-prejudice)
 
 **Some of my favourite technologies**
 
