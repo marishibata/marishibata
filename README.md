@@ -4,9 +4,9 @@
 
 **What I'm doing**
 
-- 🎨 Frontend Engineer at [Tray.io](https://github.com/trayio) building design systems for automation tools
-- 💻 Recently worked on WebRTC video streaming for [SafeSpace](https://github.com/arcaneCheco/SafeSpace), a video-chat app set in a 3D virtual world
-- 🌱 Continuing to learn Three.js to develop 3D visulisations to my interactive documentary [Digital Prejudice](https://github.com/marishibata/digital-prejudice)
+- 🎨 Frontend Engineer at [Tray.io](https://github.com/trayio) developing the main website and design systems for their low-code automation platform
+- 🌱 Learning Three.js and WebGL to develop 3D visulisations for non-profit organisation [Gurkha Equal Rights](https://gurkhaequalrights.com) and eventually for my WIP interactive documentary [Digital Prejudice](https://github.com/marishibata/digital-prejudice)
+- 💻 Previously worked on WebRTC video streaming for [SafeSpace](https://github.com/arcaneCheco/SafeSpace), a video-chat app set in a 3D virtual world
 
 **Some of my favourite technologies**
 
