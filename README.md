@@ -23,7 +23,7 @@ JavaScripting in London 🏴󠁧󠁢󠁥󠁮󠁧󠁿 via 🇯🇵🇩🇪🇰�
 
 Here are some of my pieces:
 - [BBC: Virtual Currency Girls - a J-pop band for the crypto craze](https://www.bbc.com/worklife/article/20180126-a-j-pop-band-for-the-crypto-craze)
-- [Reuters (NOT the Daily Mail): After Fukushima disaster, Japanese mothers don lab coats to measure radiation]([https://www.reuters.com/article/japan-women-radiation-idUKL8N1G66K0])
+- [Reuters (NOT the Daily Mail): After Fukushima disaster, Japanese mothers don lab coats to measure radiation](https://www.reuters.com/article/japan-women-radiation-idUKL8N1G66K0)
 - [Aeon: 3D Nipple tattooing for breast cancer survivors](https://aeon.co/videos/after-katies-double-mastectomy-claire-can-help-with-3d-nipple-tattoos)
 
 Wanna talk more? Reach out to me on [LinkedIn](https://www.linkedin.com/in/shibatamari/)
